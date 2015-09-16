@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 身觀經
+#+DATE: 2015-08-30 20:13:59.213012
+#+PROPERTY: JUAN 0
