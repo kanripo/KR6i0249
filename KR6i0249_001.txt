@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:13:59.013552
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:03
 #+TITLE: 身觀經
 #+PROPERTY: CBETA_ID T15n0612
 #+PROPERTY: ID KR6i0249
@@ -16,7 +16,7 @@ No.612¶
 
  《身觀經》¶
 ¶
-西晉月支國三藏竺法護譯¶
+西晉月氏國三藏竺法護譯¶
 
 聞如是：
 
