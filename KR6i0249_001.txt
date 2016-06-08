@@ -1,29 +1,28 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:13:59.013552
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:03
 #+TITLE: 身觀經
 #+PROPERTY: CBETA_ID T15n0612
 #+PROPERTY: ID KR6i0249
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 15, No. 612
 #+PROPERTY: VOL 15
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0249_T_000-0242a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0249_T_001-0242a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.612¶
-
- 《身觀經》¶
+No. 612¶
+《身觀經》¶
 ¶
-西晉月支國三藏竺法護譯¶
+西晉月氏國三藏竺法護譯¶
 
 聞如是：
 
 一時，佛在舍衛國祇樹給孤獨園。是¶
 時佛告諸比丘：「是身有肌膚髓血肉，含滿
 <pb:KR6i0249_T_001-0242b>¶
-𡱁溺，自視身見何等好？常有九孔惡病；常不¶
+𡱁，自視身見何等好？常有九孔惡病；常不¶
 淨常流，可足慚。常與冤家合，為至老死；亦¶
 與病俱，何以不惡？身會當墮、會當敗，以棄屍¶
 地中不復用，為狐狼所噉，何以見是不慚？誰¶
